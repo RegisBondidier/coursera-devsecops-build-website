@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Test site for Coursera DevSecOps course
   This is a test site for the Coursera DevSecOps course. It is built using Jekyll and hosted on GitHub Pages.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://regisbondidier.github.io/coursera-devsecops-build-website/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  RegisBondidier
 
 # Build settings
