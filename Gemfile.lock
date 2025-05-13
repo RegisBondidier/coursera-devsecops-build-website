@@ -277,7 +277,6 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   http_parser.rb
-  jekyll
   jekyll-feed
   minima
   tzinfo
