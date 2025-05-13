@@ -11,5 +11,5 @@
       "extensions": ["rebornix.Ruby"]
     }
   },
-  "postCreateCommand": "bundle install"
+  "postCreateCommand": "cd mysite && bundle install"
 }
